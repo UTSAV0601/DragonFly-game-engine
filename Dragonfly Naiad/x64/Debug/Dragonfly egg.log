@@ -1,0 +1,6 @@
+﻿  GameManager.cpp
+  LogManager.cpp
+  test.cpp
+C:\Users\utsav\Documents\Visual Studio 2022\My_Dragonfly_Naiad\Dragonfly_Naiad\Dragonfly Naiad\test.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Dragonfly egg.vcxproj -> C:\Users\utsav\Documents\Visual Studio 2022\My_Dragonfly_Naiad\Dragonfly_Naiad\Dragonfly Naiad\x64\Debug\Dragonfly egg.exe
